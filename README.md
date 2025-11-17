@@ -26,3 +26,24 @@ This git repository is for submitting the work in the course 2110584 Special Spe
 
 ## [Final Project Update #1](https://github.com/ShamaW/cedt-elec-game-en/tree/main/Project-Update-1)
 [![Watch the video](https://github.com/ShamaW/cedt-elec-game-en/blob/main/Project-Update-1/Project-Update-1-photo.png)](https://youtu.be/Cx2dP-x8u8M)
+
+## [Final Project](https://github.com/ShamaW/cedt-elec-game-en/tree/main/Final-Project)
+[![Watch the video](https://github.com/ShamaW/cedt-elec-game-en/blob/main/Final-Project/FP-photo.png)](https://youtu.be/ujWG6cBOqlU)
+
+**To the [itch.io](https://shamaw.itch.io/samyan-fighttown) game page.**
+
+### Acknowledgement
+* Remy Character and action from [Mixamo](https://www.mixamo.com)
+* Parasite L Starkie Character and action from [Mixamo](https://www.mixamo.com)
+* Music: Games by Pold (https://soundcloud.com/pold-music)
+  * License: CC BY-SA 3.0
+  * Free Download: https://audiolibrary.com.co/pold/games
+  * Music promoted by Audio Library: https://youtu.be/SyFPLhALc5w
+* Sound Effects:
+  * Vicki Hamilton (Pixabay)
+  * Alphix (Pixabay)
+  * Sophia_C (freesound.org) -- License: Attribution 4.0
+  * LilMati (freesound.org) -- License: Creative Commons 0
+  * nomiqbomi (freesound.org) -- License: Creative Commons 0
+  * GameAudio (freesound.org) -- License: Creative Commons 0
+  * MadPanCake (freesound.org) -- License: Creative Commons 0
