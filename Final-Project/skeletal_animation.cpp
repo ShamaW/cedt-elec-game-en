@@ -330,12 +330,12 @@ int main()
 	// Vertex data for the runway plane
 	float planeVertices[] = {
 		// positions          // texture coords
-		 5.5f, 0.0f,  35.0f,  10.0f, 120.0f,
+		 5.5f, 0.0f,  35.0f,  0.3f, 8.5f,
 		-5.5f, 0.0f, -60.0f,   0.0f, 0.0f,
-		-5.5f, 0.0f,  35.0f,   0.0f, 120.0f,
+		-5.5f, 0.0f,  35.0f,   0.0f, 8.5f,
 
-		 5.5f, 0.0f,  35.0f,  10.0f, 120.0f,
-		 5.5f, 0.0f, -60.0f,  10.0f, 0.0f,
+		 5.5f, 0.0f,  35.0f,  0.3f, 8.5f,
+		 5.5f, 0.0f, -60.0f,  0.3f, 0.0f,
 		-5.5f, 0.0f, -60.0f,   0.0f, 0.0f
 	};
 
@@ -968,7 +968,7 @@ int main()
 		front = glm::normalize(front);
 
 		// --- Camera follows player up to arena ---
-		glm::vec3 cameraPos = characterPos - (front * 5.0f) + glm::vec3(0.0f, 2.5f, 0.0f);
+		glm::vec3 cameraPos = characterPos - (front * 7.0f) + glm::vec3(0.0f, 2.5f, 0.0f);
 		glm::mat4 view = glm::lookAt(cameraPos, characterPos + glm::vec3(0.0f, 1.0f, 0.0f), glm::vec3(0.0f, 1.0f, 0.0f));
 
 		// --- MODIFIED: Draw the floors with the new shader ---
@@ -1220,7 +1220,7 @@ int main()
 		glm::vec3 modelPos = glm::vec3(characterPos.x, characterPos.y - playerSize.y / 2.0f, characterPos.z);
 		model = glm::translate(model, modelPos);
 		model = glm::rotate(model, glm::radians(-characterYaw + 90.0f), glm::vec3(0.0f, 1.0f, 0.0f));
-		model = glm::scale(model, glm::vec3(0.5f, 0.5f, 0.5f));
+		model = glm::scale(model, glm::vec3(0.8f, 0.8f, 0.8f));
 		animShader.setMat4("model", model);
 		ourModel.Draw(animShader);
 
