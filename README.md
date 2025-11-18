@@ -28,6 +28,14 @@ This git repository is for submitting the work in the course 2110584 Special Spe
 [![Watch the video](https://github.com/ShamaW/cedt-elec-game-en/blob/main/Project-Update-1/Project-Update-1-photo.png)](https://youtu.be/Cx2dP-x8u8M)
 
 ## [Final Project](https://github.com/ShamaW/cedt-elec-game-en/tree/main/Final-Project)
+
+Welcome to Samyan Fighttown!
+You are assigned to defeat the 'Great of Carbon' lurking deep within the cave.
+
+First, survive a deadly runway by parrying enemy fire, then launch yourself into the final arena for a classic platforming boss fight. The only way to win? Jump on the boss's head!
+
+Do you have what it takes?
+
 [![Watch the video](https://github.com/ShamaW/cedt-elec-game-en/blob/main/Final-Project/FP-photo.png)](https://youtu.be/yJT9uPq-Ykg)
 
 **To the [itch.io](https://shamaw.itch.io/samyan-fighttown) game page.**
